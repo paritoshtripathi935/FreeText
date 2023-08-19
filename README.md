@@ -36,7 +36,7 @@ To get started with the Customer Care Message App, follow these steps:
 ## Technologies
 This project utilizes the following technologies:
 - Python for backend development
-- Django framework for web application development
+- Fastapi framework for web application development
 - WebSocket for real-time communication
 - HTML, CSS, and JavaScript for frontend interface
 - [Any additional technologies used]
