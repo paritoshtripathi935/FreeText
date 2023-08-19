@@ -38,9 +38,8 @@ This project utilizes the following technologies:
 - Python for backend development
 - Fastapi framework for web application development
 - WebSocket for real-time communication
-- HTML, CSS, and JavaScript for frontend interface
-- [Any additional technologies used]
-
+- HTML, CSS, React and JavaScript for frontend interface
+  
 ## Contributing
 Contributions to the Customer Care Message App are welcome and encouraged! If you find any bugs, want to add new features, or improve the app in any way, feel free to open an issue or submit a pull request.
 
